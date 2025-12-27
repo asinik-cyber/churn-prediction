@@ -1,2 +1,2 @@
 # churn-prediction
-Predicting student churn with unsupervised machine learning.
+Predicting student churn with supervised machine learning.
